@@ -67,3 +67,30 @@ def test_for_unit_roots_5pct(df, variable_column, transformed_value_column):
     # Convert the results to a DataFrame
     adf_df = pd.DataFrame(results)
     return adf_df
+
+def get_target(df):
+
+    # create array
+    array = df.to_numpy()
+
+    # Flatten the array
+    flattened_array = array.flatten()
+
+    # Convert to a Python list
+    return flattened_array
+
+def create_rank_3_tensor(df, time_steps):
+    # Number of features
+    features = df.shape[1]
+    
+    # Calculate the number of sequences
+    num_sequences = len(df) // time_steps
+    
+    # Initialize an empty tensor
+    tensor = np.zeros((num_sequences, time_steps, features))
+    
+    # Populate the tensor
+    for i in range(num_sequences):
+        tensor[i] = df.iloc[i:i + time_steps].values
+    
+    return tensor

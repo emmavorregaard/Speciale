@@ -1,0 +1,32 @@
+Variable,DESCRIPTION,Lag,Coefficient
+AMDMUOx,"Real Value of Manufacturers' Unfilled Orders for Durable Goods Industries (Million of 2012 Dollars), deflated by Core PCE",lag3,-0.00021127311788365685
+ANDENOx,"Real Value of Manufacturers' New Orders for Capital Goods: Nondefense Capital Goods Industries (Million of 2012 Dollars), deflated by Core PCE",lag2,0.014210732159017185
+B020RE1Q156NBEA,Shares of gross domestic product: Exports of goods and services (Percent),lag2,-0.07260751639930264
+BAA,Moody's Seasoned Baa Corporate Bond Yieldð (Percent),lag3,-0.0037384252080613052
+CES9092000001,All Employees: Government: State Government (Thousands of Persons),lag3,-0.049182859639880436
+CMRMTSPLx,Real Manufacturing and Trade Industries Sales (Millions of Chained 2012 Dollars),lag1,0.06650548188561543
+CUSR0000SAD,Consumer Price Index for All Urban Consumers: Durables (Index 1982-84=100),lag2,0.0028043355969555156
+DNDGRG3Q086SBEA,Personal consumption expenditures: Nondurable goods (chain-type price index),lag4,-0.019382275483108908
+HOUST5F,Privately Owned Housing Starts: 5-Unit Structures or More (Thousands of Units),lag4,-0.014380236695088897
+HWIURATIOx,Ratio of Help WantedtoNo. Unemployed,lag2,0.027725035500870493
+IMPGSC1,"Real Imports of Goods & Services, 3 Decimal (Billions of Chained 2012 Dollars)",lag1,0.05898926340566893
+IPB51110SQ,Industrial Production: Durable Goods: Automotive products (Index 2012=100),lag4,0.07309300583049379
+IPNMAT,Industrial Production: Nondurable Materials (Index 2012=100),lag2,0.02481255691585884
+LIABPIx,Liabilities of Households and Nonprofit Organizations Relative to Personal Disposable Income (Percent),lag1,-0.0229564101338205
+LIABPIx,Liabilities of Households and Nonprofit Organizations Relative to Personal Disposable Income (Percent),lag4,0.0051642211236641
+LNS12032194,"Employment Level - Part-Time for Economic Reasons, All Industries (Thousands of Persons)",lag1,-0.00099449478725659
+NASDAQCOM,"NASDAQ Composite (Index Feb 5, 1971=100)",lag1,0.028900436609125016
+NIKKEI225,Nikkei Stock Average,lag1,0.006277560256553045
+NWPIx,Net Worth of Households and Nonprofit Organizations Relative to  Disposable Personal Income (Percent),lag2,0.021539158773754973
+PCESVx,"Real Personal Consumption Expenditures: Services (Billions of 2012 Dollars), deflated using PCE",lag1,0.04862462560516339
+PERMIT,New Private Housing Units Authorized by Building Permits (Thousands of Units),lag1,0.044213983517690694
+PERMIT,New Private Housing Units Authorized by Building Permits (Thousands of Units),lag3,0.002698737809666527
+PPIACO,Producer Price Index for All Commodities (Index 1982=100),lag3,-0.024392641430391424
+PRFIx,"Real private fixed investment: Residential (Billions of Chained 2012 Dollars), deflated using PCE",lag2,0.04304938341478476
+S&P 500,S&P's Common Stock Price Index: Composite,lag1,0.017852611627998564
+TLBSNNBBDIx,Nonfinancial Noncorporate Business Sector Liabilities to Disposable Business Income (Percent),lag4,-0.012677402582048273
+TLBSNNCBBDIx,Nonfinancial Corporate Business Sector Liabilities to Disposable Business Income (Percent),lag1,-0.0021365308137066656
+UNLPNBS,Nonfarm Business Sector: Unit Nonlabor Payments (Index 2009=100),lag1,-0.0005323498569747364
+USEHS,All Employees: Education & Health Services (Thousands of Persons),lag3,0.01808814687361422
+USSTHPI,All-Transactions House Price Index for the United States (Index 1980 Q1=100),lag1,0.03614203918437351
+USWTRADE,All Employees: Wholesale Trade (Thousands of Persons),lag2,0.062011943958349296
